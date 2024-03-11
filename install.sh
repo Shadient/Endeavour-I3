@@ -129,8 +129,9 @@ makepkg -si
 cd ~
 source ~/.bashrc
 
-paru -S balena-etcher
+paru -S etcher-bin
 paru -S bitwig-studio
+paru -S davinci-resolve
 paru -S vscodium-bin
 paru -S waterfox-bin
 
