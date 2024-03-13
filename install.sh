@@ -131,7 +131,6 @@ source ~/.bashrc
 
 paru -S etcher-bin
 paru -S bitwig-studio
-paru -S davinci-resolve
 paru -S vscodium-bin
 paru -S waterfox-bin
 
