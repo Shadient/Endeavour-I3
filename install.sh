@@ -78,6 +78,7 @@ PKGS=(
   'cmatrix'  
   'discord'
   'flameshot'
+  'gimp'
   'git'
   'gtop'
   'htop'
@@ -131,6 +132,7 @@ source ~/.bashrc
 
 paru -S etcher-bin
 paru -S bitwig-studio
+paru -S deezer
 paru -S vscodium-bin
 paru -S waterfox-bin
 
