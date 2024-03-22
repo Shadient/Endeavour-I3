@@ -89,6 +89,7 @@ PKGS=(
   'neofetch'
   'neovim'
   'networkmanager'
+  'nitrogen'
   'obsidian'
   'okular'
   'polkit'
