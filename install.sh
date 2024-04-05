@@ -132,8 +132,8 @@ cd ~
 source ~/.bashrc
 
 paru -S etcher-bin
-paru -S bitwig-studio
-paru -S deezer
+#paru -S bitwig-studio
+#paru -S deezer
 paru -S vscodium-bin
 paru -S waterfox-bin
 
@@ -147,6 +147,7 @@ cd eww
 cargo build --release --no-default-features --features x11
 cd target/release
 chmod +x ./eww
+cd ~
 
 echo
 echo "Done!"
