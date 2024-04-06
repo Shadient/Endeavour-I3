@@ -142,12 +142,12 @@ paru -S waterfox-bin
 #-------------------------------------------------------------------------
 
 # Eww
-git clone https://github.com/elkowar/eww
-cd eww
-cargo build --release --no-default-features --features x11
-cd target/release
-chmod +x ./eww
-cd ~
+#git clone https://github.com/elkowar/eww
+#cd eww
+#cargo build --release --no-default-features --features x11
+#cd target/release
+#chmod +x ./eww
+#cd ~
 
 echo
 echo "Done!"
